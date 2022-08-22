@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hi! I'm Harin😊</h1>
+<h3>Hi! I'm Harin😊</h3>
 <br>
 <br>
 
@@ -35,7 +35,7 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=footer)
+<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=footer)-->
 <!--
 **Harinee68/Harinee68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
