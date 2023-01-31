@@ -5,7 +5,14 @@
 <h3>Hi! I'm Harin😊</h3>
 <br>
 <br>
+</div>
 
+<div>
+  <h2> About Me </h2>
+  <p> 🎓 서울여자대학교 정보보호학과 (2018.03 ~ 2023.02) </p>
+  <p> 🦁 멋쟁이사자처럼 SWU 10기 아기사자 (2022.03 ~ 2022.12) </p>
+  <p> 💙 삼성 청년 SW 아카데미 SSAFY 9기 (2023.01 ~ ) </p>
+</div>
 <!-- <h4>🛠MY TECH🛠</h4> -->
 <!--<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -33,7 +40,6 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> -->
 
-</div>
 
 <!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=footer)-->
 <!--
