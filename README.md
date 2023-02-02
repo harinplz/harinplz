@@ -13,6 +13,12 @@
   <p> 🦁 멋쟁이사자처럼 SWU 10기 아기사자 (2022.03 ~ 2022.12) </p>
   <p> 💙 삼성 청년 SW 아카데미 SSAFY 9기 (2023.01 ~ ) </p>
 </div>
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarinee68&count_bg=%239AE7FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 <!-- <h4>🛠MY TECH🛠</h4> -->
 <!--<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
