@@ -1,11 +1,8 @@
 <div align="center">
-  
-  ![Group 1 (1)](https://github.com/harinplz/Algorithm-Study/assets/62701446/edc671ce-db09-4ddc-8d21-69b1ff94e456)
-  
+  <img src="https://github.com/harinplz/Algorithm-Study/assets/62701446/16f18320-1e68-4450-941c-0c28b8ceddec" width="500">
 </div>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35) -->
-
 
 <div align="center">
   <h3> 👋 About Me 👋 </h3>
