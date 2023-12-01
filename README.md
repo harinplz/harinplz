@@ -1,13 +1,11 @@
-<div align="center">
-  <img src="https://github.com/harinplz/Algorithm-Study/assets/62701446/16f18320-1e68-4450-941c-0c28b8ceddec" width="500">
-</div>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35)
 
 <div align="center">
   <h3> 👋 About Me 👋 </h3>
 
-[🗒️ 포트폴리오](https://harinpotter.notion.site/)   
+<a href="https://harinpotter.notion.site/">🗒️ 포트폴리오</a>
+
 🎓 서울여자대학교 정보보호학과 (2018.03 ~ 2023.02)  
 🦁 멋쟁이사자처럼 SWU 10기 백엔드 (2022.03 ~ 2022.12)  
 💙 삼성 청년 SW 아카데미 SSAFY 9기 (2023.01 ~ 2023.12)   
@@ -20,7 +18,7 @@
 
 <h3>🛠 My Tech 🛠</h3> 
 
-<h4> BackEnd 🔍️ </h4>
+<h4> 🔍️ BackEnd </h4>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -37,7 +35,7 @@
 
 <br/>
 
-<h4> FrontEnd 🌱 </h4>
+<h4> 🌱 FrontEnd </h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -48,11 +46,17 @@
 
 <br/>
 
-<h4> Collaboration 💬 </h4>
+<h4> 💬 Collaboration </h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jirasoftware&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/harinplz/Algorithm-Study/assets/62701446/16f18320-1e68-4450-941c-0c28b8ceddec" width="500">
 </div>
 
 <!-- <div align="center">
