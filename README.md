@@ -1,25 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35)
-
-<div align="center">
-
-<!-- <h3>Hi! I'm Harin😊</h3> -->
-</div>
-
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
+  ![Group 1 (1)](https://github.com/harinplz/Algorithm-Study/assets/62701446/edc671ce-db09-4ddc-8d21-69b1ff94e456)
   
 </div>
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35) -->
+
+
 <div align="center">
-  <a href="https://harinpotter.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <h3> 👋 About Me 👋 </h3>
+
+<a href="https://harinpotter.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
+🎓 서울여자대학교 정보보호학과 (2018.03 ~ 2023.02)  
+🦁 멋쟁이사자처럼 SWU 10기 백엔드 (2022.03 ~ 2022.12)  
+💙 삼성 청년 SW 아카데미 SSAFY 9기 (2023.01 ~ 2023.12)   
+
 </div>
 
-<div>
-  <h2> About Me </h2>
-  <p> 🎓 서울여자대학교 정보보호학과 (2018.03 ~ 2023.02) </p>
-  <p> 🦁 멋쟁이사자처럼 SWU 10기 백엔드 아기사자 (2022.03 ~ 2022.12) </p>
-  <p> 💙 삼성 청년 SW 아카데미 SSAFY 9기 (2023.01 ~ ) </p>
+<br/>
+
+<div align="center">
+
+<!-- <h4>🛠MY TECH🛠</h4> -->
+  
 </div>
 
 <!-- <div align="center">
@@ -27,7 +30,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarinee68&count_bg=%239AE7FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div> -->
-<!-- <h4>🛠MY TECH🛠</h4> -->
+
 <!--<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <br>
@@ -70,3 +73,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
+  
+</div> -->
