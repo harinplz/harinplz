@@ -3,7 +3,6 @@
 
 <div align="center">
   <p> 안녕하세요🙌 풀스택 개발자를 꿈꾸는 이하린입니다! </p>
-  <br>
 </div>
 
 <div align="center">
