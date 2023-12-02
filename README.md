@@ -2,6 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35)
 
 <div align="center">
+  <p> 안녕하세요🙌 풀스택 개발자를 꿈꾸는 이하린입니다! </p>
+  <br>
+</div>
+
+<div align="center">
   <h3> 👋 About Me 👋 </h3>
 
 <a href="https://harinpotter.notion.site/">🗒️ 포트폴리오</a>
