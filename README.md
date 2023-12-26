@@ -57,9 +57,9 @@
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/harinplz/Algorithm-Study/assets/62701446/16f18320-1e68-4450-941c-0c28b8ceddec" width="500">
-</div>
+</div> -->
 
 <!-- <div align="center">
   
