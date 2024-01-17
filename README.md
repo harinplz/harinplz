@@ -1,12 +1,15 @@
 
 <div align="center">
-  <h3> 👋 About Me 👋 </h3>
+  <h2> 👋 About Me 👋 </h2>
 
-<a href="https://harinpotter.notion.site/">🗒️ 포트폴리오</a>
+</div>
+<!-- <a href="https://harinpotter.notion.site/">🗒️ 포트폴리오</a> -->
 
-🎓 서울여자대학교 정보보호학과 졸업 (2018.03 ~ 2023.02)  
-🦁 멋쟁이사자처럼 SWU 10기 백엔드 수료 (2022.03 ~ 2022.12)  
-💙 삼성 청년 SW 아카데미 SSAFY 9기 수료 (2023.01 ~ 2023.12)   
+<div>
+  
+- 서울여자대학교 정보보호학과 졸업 (2018.03 ~ 2023.02)  
+- 멋쟁이사자처럼 SWU 10기 백엔드 수료 (2022.03 ~ 2022.12)  
+- 삼성 청년 SW 아카데미 SSAFY 9기 수료 (2023.01 ~ 2023.12)   
 
 </div>
 
@@ -14,7 +17,7 @@
 
 <div align="center">
 
-<h3>🛠 My Tech 🛠</h3> 
+<h2>🛠 My Tech 🛠</h2> 
 
 <h4> 🔍️ BackEnd </h4>
 
@@ -54,59 +57,3 @@
 <br>
 <br>
 <br>
-
-<!-- <div align="center">
-  <img src="https://github.com/harinplz/Algorithm-Study/assets/62701446/16f18320-1e68-4450-941c-0c28b8ceddec" width="500">
-</div> -->
-
-<!-- <div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarinee68&count_bg=%239AE7FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div> -->
-
-<!--<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-
-<br>
-
-
-<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<br>
-
-
-
-
-
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> -->
-
-
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=footer)-->
-<!--
-**Harinee68/Harinee68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <div align="center">
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
-  
-</div> -->
