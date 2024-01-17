@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=150&section=header&text=Harin's%20Github&fontSize=50&fontAlignY=35)
-
 <div align="center">
   <h3> 👋 About Me 👋 </h3>
 
