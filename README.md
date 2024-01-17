@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
   <h2> 👋 About Me 👋 </h2>
 
 </div>
@@ -15,7 +15,7 @@
 
 <br/>
 
-<div align="center">
+<div>
 
 <h2>🛠 My Tech 🛠</h2> 
 
