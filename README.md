@@ -1,6 +1,6 @@
 
 <div>
-  <h2> 👋 About Me 👋 </h2>
+  <h2> About Me 👋 </h2>
 
 </div>
 <!-- <a href="https://harinpotter.notion.site/">🗒️ 포트폴리오</a> -->
@@ -17,9 +17,9 @@
 
 <div>
 
-<h2>🛠 My Tech 🛠</h2> 
+<h2> My Tech 🛠</h2> 
 
-<h4> 🔍️ BackEnd </h4>
+<h4> BackEnd </h4>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h4> 🌱 FrontEnd </h4>
+<h4> FrontEnd </h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -47,7 +47,7 @@
 
 <br/>
 
-<h4> 💬 Collaboration </h4>
+<h4> Collaboration </h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jirasoftware&logoColor=white" />
@@ -55,5 +55,20 @@
 </div>
 
 <br>
+<br>
+
+<div>
+
+  <h2>Algorithm 🔍 </h2>
+
+  > 꾸준함이 성장의 밑거름이다! (｡⌒𖧉⌒)⋆.˚⊹⁺
+
+  
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlwls608)](https://solved.ac/gmlwls608)
+[![](https://mazandi.herokuapp.com/api?handle=gmlwls608&theme=warm)](https://solved.ac/gmlwls608)
+
+
+</div>
+
 <br>
 <br>
